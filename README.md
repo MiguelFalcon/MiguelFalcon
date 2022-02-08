@@ -2,7 +2,7 @@
 
 Mi nombre es **Miguel Falcón** y soy *Desarrollador Web Full-Stack*.
 
-Estoy especializado en `PHP` y mi pasión es realizar aplicaciones web de uso empresarial. Me desenvuelvo bien con el framework *Codeigniter*, aunque personalmente prefiero utilizar uno de cosecha propia.
+Estoy especializado en `PHP` y mi pasión es realizar aplicaciones web de uso empresarial. Me desenvuelvo bien con el framework *Codeigniter* y desarrollo themes y plugins para *WordPress*.
 
 En cuanto al *Front End*, también tengo experiencia con `HTML`, `CSS` y `JavaScript`. Lo mismo que antes... también manejo librerías como *Bootstrap* y *JQuery* o gestores de contenido como *WordPress*, pero prefiero echar mano de mis propios recursos.
 
