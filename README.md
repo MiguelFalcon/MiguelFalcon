@@ -1,24 +1,35 @@
-### ¡Bienvenid@! 👋
+# Soy Miguel Falcón 👋
 
-Mi nombre es **Miguel Falcón** y soy *Desarrollador Web Full-Stack*.
+### Tu agencia imagina. Yo lo convierto en código.
 
-Estoy especializado en `PHP` y mi pasión es realizar aplicaciones web de uso empresarial. Me desenvuelvo bien con el framework *Laravel* y desarrollo themes y plugins para *WordPress*.
+Soy desarrollador independiente especializado en **WordPress y programación a medida para agencias**.
 
-En cuanto al *Front End*, también tengo experiencia con `HTML`, `CSS` y `JavaScript`. Lo mismo que antes... también manejo librerías como *Bootstrap* y *JQuery* o gestores de contenido como *WordPress*, pero prefiero echar mano de mis propios recursos.
+Colaboro en **marca blanca**, integrándome como apoyo técnico de tu equipo para llevar diseños, ideas y necesidades de negocio a proyectos que funcionan. Tu agencia mantiene la relación con el cliente; yo me encargo del desarrollo.
 
-💬 Si quieres hablar, escríbeme: *hola@miguelfalcon.es*
+## Qué puedo aportar a tu equipo
 
-<!--
-**MiguelFalcon/MiguelFalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **WordPress y WooCommerce:** desarrollo de webs, tiendas, temas y plugins personalizados.
+- **Del diseño al código:** implementación de prototipos de Figma, cuidando la fidelidad visual y la adaptación a móvil.
+- **Programación a medida:** aplicaciones de gestión, paneles y herramientas internas con PHP y Laravel.
+- **Integraciones y automatizaciones:** conexión entre plataformas, APIs y procesos de trabajo.
+- **Soporte técnico:** mantenimiento y evolución de proyectos existentes.
 
-Here are some ideas to get you started:
+## Cómo colaboro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Puedo incorporarme para resolver un proyecto concreto o trabajar de forma continuada con tu agencia.
+
+Me gusta definir bien el alcance, mantener una comunicación directa y entregar soluciones que resulten sencillas de utilizar y mantener. Cuido tanto lo que ve el usuario como el código que lo hace posible.
+
+Trabajo desde **Galicia**, en remoto.
+
+## Tecnologías
+
+PHP · Laravel · MySQL · WordPress · WooCommerce · Elementor  
+HTML · CSS · JavaScript · Git
+
+## Hablemos de tu próximo proyecto
+
+¿Necesitas capacidad de desarrollo para tu agencia?
+
+🌐 [miguelfalcon.es](https://miguelfalcon.es)  
+✉️ [hola@miguelfalcon.es](mailto:hola@miguelfalcon.es)
